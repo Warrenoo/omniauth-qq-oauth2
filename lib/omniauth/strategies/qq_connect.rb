@@ -62,4 +62,4 @@ module OmniAuth
   end
 end
 
-OmniAuth.config.add_camelization('qq_connect', 'QQConnect')
+OmniAuth.config.add_camelization('qq', 'QQConnect')
