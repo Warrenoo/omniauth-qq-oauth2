@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'omniauth-qq-oauth2'
+    gem 'omniauth-qq-oauth2', git: "https://github.com/Warrenoo/omniauth-qq-oauth2.git"
 
 And then execute:
 
