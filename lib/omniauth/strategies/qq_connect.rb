@@ -5,7 +5,7 @@ require 'omniauth/strategies/oauth2'
 module OmniAuth
   module Strategies
     class QQConnect < OmniAuth::Strategies::OAuth2
-      option :name, "qqt"
+      option :name, "qq"
 
       option :client_options, {
         :site => 'https://graph.qq.com/oauth2.0/',
